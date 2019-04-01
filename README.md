@@ -6,6 +6,7 @@ JAWSUG 支部マップです
 * jaws-ug-map.ai : Adobe Illustrator CC(2014) CMYKデータ
 * jaws-ug-map.pdf : 上記のPDFデータ
 * jaws-ug-map.png : 上記のpngデータ
+* jaws-ug-map_bg_white.png : 上記のpngデータ(背景ホワイト)
 * jaws-ug-map.pptx : パワーポイント用データ
 
 ## ライセンス
